@@ -1,0 +1,17 @@
+# Dependencies
+frontend/node_modules/
+server/node_modules/
+
+# Environment variables
+server/.env
+frontend/.env
+
+# Build files
+frontend/dist/
+server/dist/
+
+# Vercel
+.vercel/
+
+# Logs
+*.log
